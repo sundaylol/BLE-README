@@ -74,9 +74,8 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 
 方向图片为前见下图。
 
-![db904ab6cdef0998e2c809eb74054e4b.png](evernotecid://EB2BEEEA-E23B-4DE2-90D5-29813CFB939F/appyinxiangcom/24801643/ENResource/p9)
 
-
+![image](https://github.com/sundaylol/BLE-README/blob/8fcd8306d64c946b79fded97acfcb6aefabe9404/1D0193BB-25D7-45EA-89A5-893304FD7535.png)
 
 * **设置屏幕** 
 
