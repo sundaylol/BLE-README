@@ -74,8 +74,9 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 
 方向图片为前见下图。
 
+![db904ab6cdef0998e2c809eb74054e4b.png](evernotecid://EB2BEEEA-E23B-4DE2-90D5-29813CFB939F/appyinxiangcom/24801643/ENResource/p9)
 
-![image](https://github.com/sundaylol/BLE-README/blob/8fcd8306d64c946b79fded97acfcb6aefabe9404/1D0193BB-25D7-45EA-89A5-893304FD7535.png)
+
 
 * **设置屏幕** 
 
@@ -108,4 +109,16 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 |0x03|数据区总长度||||||||见备注|
 
 数据区包含 城市 天气 公布时间 气温 风向 风强度 湿度 数据均为UTF-8格式包含结束符0
+
+* **设置BLE名称**
+
+
+service uuid:901c172e-6209-479a-9264-7b9499b43c24
+characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
+
+|id(1)|BLE名称(n)|
+|--------|:---------:|
+|0x05|见备注|
+
+BLE名称格式为：UTF-8格式包含结束符0
 
