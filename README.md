@@ -76,24 +76,34 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 
 ![image](https://github.com/sundaylol/BLE-README/blob/8fcd8306d64c946b79fded97acfcb6aefabe9404/1D0193BB-25D7-45EA-89A5-893304FD7535.png)
 
+
+
 * **设置屏幕** 
 
  service uuid:9bc85991-d452-484c-8f85-4463e921bcfe
+ 
  1.设置屏幕亮度
+ 
+characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
+
 
 |id(1)|亮度(1)|
 |--------|:---------:|
 |0x04|亮度0~100|
 亮度分11档 0~100 每10个单位为一档
 
-characteristic uuid：1b31e06d-2685-4682-94fd-307ef476e708
+
+
 
 2.设置屏幕shift
+characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 
-|id(1)|shift上下(1)|shift左右(1)|
-|--------|:---------:|:---------:
-|0x30|-50~50|-50~50|
-characteristic uuid：e83b60f7-dc4d-4265-80a7-d6c090ae9e3e
+
+|id(1)|shift上下(1)|
+|--------|:---------:
+|0x06|见备注|
+
+
 
 
 
@@ -119,4 +129,12 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 |0x05|见备注|
 
 BLE名称格式为：UTF-8格式包含结束符0
+
+
+
+
+
+
+
+
 
