@@ -94,7 +94,6 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 
 
 
-
 2.设置屏幕shift
 characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 
@@ -102,6 +101,7 @@ characteristic uuid：aef69ec4-8e8d-4219-9428-d2977a0962ee
 |id(1)|shift上下(1)|
 |--------|:---------:
 |0x06|见备注|
+
 0x01 上 0x02 下 0x03 左 0x04 右 0x00 重置
 
 
